@@ -62,7 +62,8 @@
 	Language : Java
 
 				
-10.if num % 2 remainder is 0, then even
+10. if num % 2 remainder is 0, then even
+	
 	else oddd
 	use Seperation of Concern while writting the codebase
 
